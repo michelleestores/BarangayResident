@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Barangay - Barangay Module (Resident's Information)
+ * User - Login page
  * 
  * ESTORES, MICHELLE C. <michelle.estores@cvsu.edu.ph>
  * 201810155

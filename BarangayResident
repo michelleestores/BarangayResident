@@ -1,0 +1,39 @@
+<?php
+
+/**
+ * BarangayResident - Barangay Resident Module (Resident's Information)
+ * 
+ * ESTORES, MICHELLE C. <michelle.estores@cvsu.edu.ph>
+ * 201810155
+ * 
+ * 2023-4-07
+ */
+
+namespace App\Controllers;
+
+
+class BarangayResident extends BaseController
+{
+    public function createInformation()
+    {
+        echo "Create Information";
+    }
+
+    public function listInformation()
+    {
+        echo "List Information";
+    }
+
+    public function updateInformation()
+    {
+        echo "Update Information";
+    }
+
+    public function deleteInformation()
+    {
+        echo "Delete Information";
+    }
+}
+
+
+
